@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mern Chat App**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web3 & Blockchain Devlopement**
 
 - 📫 How to reach me **priyanjha18@gmail.com**
 
