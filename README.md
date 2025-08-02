@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyan Jha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Mern Chat App**
+- 🔭 I’m currently working on **Solidity**
 
 - 🌱 I’m currently learning **Web3 & Blockchain Devlopement**
 
